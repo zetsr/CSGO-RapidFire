@@ -1,2 +1,2 @@
 # CSGO-RapidFire
-Credits @ryusei423
+Credits [@ryusei423](https://github.com/ryusei423)
